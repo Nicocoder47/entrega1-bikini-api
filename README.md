@@ -9,5 +9,5 @@ La información se guarda en archivos JSON dentro de la carpeta `data/`.
 ## ⚙️ Cómo usar
 1. Clonar el repositorio:
    ```bash
-   git clone 
+   git clone https://github.com/Nicocoder47/entrega1-bikini-api
    cd entrega1-bikini-api
