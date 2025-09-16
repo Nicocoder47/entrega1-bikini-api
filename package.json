@@ -1,0 +1,16 @@
+{
+  "name": "bikini-ecommerce-api-fs",
+  "version": "1.0.0",
+  "description": "Entrega 1 - API de Bikinis (productos y carritos) con persistencia en filesystem",
+  "main": "src/app.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/app.js",
+    "start": "node src/app.js"
+  },
+  "author": "Nicolás",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

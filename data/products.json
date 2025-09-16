@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1",
+    "title": "Bikini Triangle Rose",
+    "description": "Bikini triángulo color rosa con breteles ajustables",
+    "code": "BK-TR-ROSE",
+    "price": 24999,
+    "status": true,
+    "stock": 30,
+    "category": "triangle",
+    "thumbnails": [
+      "/img/triangle-rose-1.jpg",
+      "/img/triangle-rose-2.jpg"
+    ],
+    "createdAt": "2025-09-14T00:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "title": "Bikini High-Waist Black",
+    "description": "Bikini tiro alto color negro, contención y comodidad",
+    "code": "BK-HW-BLACK",
+    "price": 28999,
+    "status": true,
+    "stock": 20,
+    "category": "high-waist",
+    "thumbnails": [
+      "/img/highwaist-black-1.jpg"
+    ],
+    "createdAt": "2025-09-14T00:00:00.000Z"
+  },
+  {
+    "id": "3",
+    "title": "Bikini Bandeau Ocean",
+    "description": "Bikini strapless tipo bandeau color océano",
+    "code": "BK-BD-OCEAN",
+    "price": 26999,
+    "status": true,
+    "stock": 15,
+    "category": "bandeau",
+    "thumbnails": [
+      "/img/bandeau-ocean-1.jpg",
+      "/img/bandeau-ocean-2.jpg"
+    ],
+    "createdAt": "2025-09-14T00:00:00.000Z"
+  }
+]
